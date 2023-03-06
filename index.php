@@ -13,4 +13,4 @@ for($i=1;$i<=50;$i++){
 }
 
 $string = substr($string,0,-1);
-echo $string;
+echo "Result : ".$string;
